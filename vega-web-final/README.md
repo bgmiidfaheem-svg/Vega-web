@@ -1,0 +1,1 @@
+Vega web final. Server uses provider JS in server/provider. Run: cd server && npm i && node index.js
